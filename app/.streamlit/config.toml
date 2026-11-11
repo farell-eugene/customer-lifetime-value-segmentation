@@ -1,0 +1,20 @@
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
+
+[theme]
+base = "light"
+primaryColor = "#2F6B57"
+backgroundColor = "#F5F6F3"
+secondaryBackgroundColor = "#E9ECE7"
+textColor = "#1F2421"
+font = "Segoe UI"
+headingFont = "Bahnschrift"
+baseRadius = "0.4rem"
+chartCategoricalColors = ["#B7791F", "#6B7A8F", "#2F6B57", "#9AA19B"]
